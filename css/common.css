@@ -19,13 +19,13 @@ ul {
 }
 
 button {
-  font-family: inherit;
-  font-size: inherit;
-  cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
 }
 
 address {
-  font-style: normal;
+    font-style: normal;
 }
 
 .section-title {
