@@ -6,3 +6,8 @@
     color: #2e2f42;
     font-weight: 500;
 }
+
+.navigation-link:hover,
+.navigation-link:focus {
+    color: #404bbf;
+}
