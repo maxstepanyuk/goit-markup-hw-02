@@ -20,3 +20,34 @@ ol,
 ul {
     list-style-type: none;
 }
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo-accent {
+    color: #4d5ae5;
+}
+
+/* header navigation */
+
+/* .navigation {} */
+
+.navigation-logo {
+    color: #2e2f42;
+}
+
+.navigation-link {
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+
+/* header contacts */
+
+
