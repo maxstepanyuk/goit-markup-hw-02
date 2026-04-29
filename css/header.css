@@ -11,3 +11,8 @@
 .navigation-link:focus {
     color: #404bbf;
 }
+
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #404bbf;
+}
