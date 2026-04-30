@@ -45,8 +45,13 @@ address {
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
 
-.logo-accent {
-    color: #4d5ae5;
+.logo-accent-dark {
+    color: #2e2f42;
+}
+
+.logo-accent-light {
+    color: #f4f4fd;
 }
